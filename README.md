@@ -1,0 +1,4 @@
+scadsy
+======
+
+School Administration System
